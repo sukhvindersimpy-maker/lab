@@ -2,5 +2,9 @@
   "randomIdentifier": 9384,
   "slnxName": "WarehouseManagement",
   "publisherName": "TALXISLab",
-  "publisherPrefix": "lab"
+  "publisherPrefix": "lab",
+  "tenantId": "7dfae010-1a6d-4a77-9509-d40788fdf3dc",
+  "repo": "sukhvindersimpy-maker/lab",
+  "mainRulesetId": 25829234,
+  "mainRulesetName": "lab-main-protection"
 }
